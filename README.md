@@ -1,6 +1,7 @@
 type-of-extra
 =====================================
 
+https://www.npmjs.com/package/type-of-extra
 
 ## About
 
@@ -16,8 +17,6 @@ console.log( typeof([1,2]) ); //'object'
 console.log( typeOf([1,2]) ); //'array'
 
 ```
-
-
 
 
 ## Installation
