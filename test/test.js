@@ -1,4 +1,4 @@
-var typeOf = require('../lib/typeOf');
+var typeOf = require('../lib/typeOf').typeOf;
 var assert = require('assert');
 
 describe('typeOf returns:', function() {
